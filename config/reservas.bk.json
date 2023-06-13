@@ -1,0 +1,21 @@
+[
+  {
+      "id": 1,
+      "restauranteId": 1,
+      "tel": "986000111",
+      "comensales": 2
+  },
+  {
+      "id": 2,
+      "restauranteId": 1,
+      "tel": "650123123",
+      "comensales": 6
+  },
+  {
+      "id": 3,
+      "restauranteId": 2,
+      "tel": "600700800",
+      "comensales": 4
+  }
+  
+]
